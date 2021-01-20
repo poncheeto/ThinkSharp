@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace HelloWorld
+namespace ThinkSpace
 {
-    class HelloWorld
-    {
-        static void Main(string[] args)
+   public class Hello
+    {   
+        // main: generate some simple output
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, World.");
         }
     }
 }
