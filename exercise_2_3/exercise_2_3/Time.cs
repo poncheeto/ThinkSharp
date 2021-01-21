@@ -6,7 +6,7 @@ namespace exercise_2_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int hour = 8, minute = 22, second = 36;
         }
     }
 }
