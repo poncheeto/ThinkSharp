@@ -6,7 +6,9 @@ namespace exercise_2_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string day, month;
+            int date, year;
+
         }
     }
 }

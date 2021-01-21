@@ -1,0 +1,13 @@
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.exe
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.deps.json
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.runtimeconfig.json
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.runtimeconfig.dev.json
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.dll
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\bin\Debug\netcoreapp3.1\Date.cs.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.csprojAssemblyReference.cache
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.AssemblyInfoInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.AssemblyInfo.cs
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.csproj.CoreCompileInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.dll
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\ThinkSharp\exercise_2_2\exercise_2_2\obj\Debug\netcoreapp3.1\Date.cs.genruntimeconfig.cache
