@@ -13,6 +13,9 @@ namespace exercise_2_3
             Console.WriteLine($"Seconds since midnight: {seconds_since_midnight}");
             int seconds_remaining = SECONDS_IN_DAY - seconds_since_midnight;
             Console.WriteLine($"Seconds Remaining in day: {seconds_remaining}");
+            int percentage = (seconds_since_midnight * 100 / SECONDS_IN_DAY);
+            Console.WriteLine($"Percentage of day passed: {percentage}");
+
         }
     }
 }
