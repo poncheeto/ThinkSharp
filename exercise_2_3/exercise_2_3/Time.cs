@@ -6,11 +6,13 @@ namespace exercise_2_3
     {
         static void Main(string[] args)
         {
+            int SECONDS_IN_DAY = 86400;
             int hour = 20, minute = 22, second = 36;
 
-            int sum_time = ((hour * 60) + minute) * 60;
-            Console.WriteLine(sum_time);
-            int seconds_since_midnight = 0;
+            int seconds_since_midnight = ((hour * 60) + minute) * 60 + second;
+            Console.WriteLine($"Seconds since midnight: {seconds_since_midnight}");
+            int seconds_remaining = SECONDS_IN_DAY - seconds_since_midnight;
+            Console.WriteLine($"Seconds Remaining in day: {seconds_remaining}");
         }
     }
 }
