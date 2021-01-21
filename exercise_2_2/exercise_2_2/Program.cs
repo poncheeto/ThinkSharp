@@ -6,8 +6,8 @@ namespace exercise_2_2
     {
         static void Main(string[] args)
         {
-            string day, month;
-            int date, year;
+            string day = "Wednesday", month = "January";
+            int date = 20, year = 2021;
 
         }
     }
