@@ -2,7 +2,7 @@
 
 namespace Exercises
 {
-    class Program
+    class Zool
     {
         static void Main(string[] args)
         {
