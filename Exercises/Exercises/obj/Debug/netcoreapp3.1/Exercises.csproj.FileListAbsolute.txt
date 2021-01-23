@@ -1,0 +1,13 @@
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache
