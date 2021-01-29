@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Exercises
 {
-    class Class1
+    class ConditionalsRecursion
     {
     }
 }

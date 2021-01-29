@@ -12,19 +12,19 @@ namespace Week02Assignment
         {
             /////////////////////////////////////////// 1 ////////////////////////////////////////////////////
 
-            int SECONDS_IN_DAY = 86400;
+            const int secondsInDay = 86400;
             int hour = 18, minute = 39, second = 36;
 
             // Calculate and print number of seconds since midnight
-            int seconds_since_midnight = ((hour * 60) + minute) * 60 + second;
-            Console.WriteLine($"Seconds since midnight: {seconds_since_midnight}");
+            int secondsSinceMidnight = ((hour * 60) + minute) * 60 + second;
+            Console.WriteLine($"Seconds since midnight: {secondsSinceMidnight}");
 
             // Calculate and print seconds remaining in day
-            int seconds_remaining = SECONDS_IN_DAY - seconds_since_midnight;
-            Console.WriteLine($"Seconds Remaining in day: {seconds_remaining}");
+            int secondsRemaining = secondsInDay - secondsSinceMidnight;
+            Console.WriteLine($"Seconds Remaining in day: {secondsRemaining}");
 
             // Calculate and print percentage of the day passed
-            int percentage = (seconds_since_midnight * 100 / SECONDS_IN_DAY);
+            int percentage = (secondsSinceMidnight * 100 / secondsInDay);
             Console.WriteLine($"Percentage of day passed: {percentage}%");
 
             hour = 18;
