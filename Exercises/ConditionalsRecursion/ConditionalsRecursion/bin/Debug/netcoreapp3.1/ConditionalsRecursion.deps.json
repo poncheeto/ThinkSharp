@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConditionalsRecursion/1.0.0": {
+        "runtime": {
+          "ConditionalsRecursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalsRecursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.exe
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.deps.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.runtimeconfig.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.runtimeconfig.dev.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\bin\Debug\netcoreapp3.1\ConditionalsRecursion.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.csprojAssemblyReference.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.AssemblyInfoInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.AssemblyInfo.cs
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ConditionalsRecursion\ConditionalsRecursion\obj\Debug\netcoreapp3.1\ConditionalsRecursion.genruntimeconfig.cache

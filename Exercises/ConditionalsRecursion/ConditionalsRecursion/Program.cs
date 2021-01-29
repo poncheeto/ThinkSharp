@@ -6,7 +6,19 @@ namespace ConditionalsRecursion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Countdown(10);
+        }
+
+        public static void Countdown(int n)
+        {
+            if (n == 0)
+            {
+                Console.WriteLine("Blastoff!");
+            } else
+            {
+                Console.WriteLine(n);
+                Countdown(n - 1);
+            }
         }
     }
 }
