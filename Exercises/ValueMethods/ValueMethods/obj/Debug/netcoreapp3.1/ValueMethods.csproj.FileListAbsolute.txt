@@ -1,0 +1,13 @@
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.exe
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.deps.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.runtimeconfig.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.runtimeconfig.dev.json
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\bin\Debug\netcoreapp3.1\ValueMethods.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.csprojAssemblyReference.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.AssemblyInfoInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.AssemblyInfo.cs
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.csproj.CoreCompileInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Exercises\ValueMethods\ValueMethods\obj\Debug\netcoreapp3.1\ValueMethods.genruntimeconfig.cache
