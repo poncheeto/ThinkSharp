@@ -6,7 +6,14 @@ namespace ValueMethods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(IsDivisible(4, 2));
+            // Console.WriteLine(IsDivisible(4, 2));
+            // Console.WriteLine(Multadd(1.0, 2.0, 3.0));
+
+
+            double a = Math.Cos(Math.PI / 4.0);
+            double b = 1.0 / 2.0;
+            double c = Math.Sin(Math.PI / 4.0);
+            Console.WriteLine(Multadd(a, b, c));
         }
 
         public static bool IsDivisible(int n, int m)
