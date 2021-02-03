@@ -13,5 +13,10 @@ namespace ValueMethods
         {
             return n % m == 0;
         }
+
+        public static double Multadd(double a, double b, double c)
+        {
+            return a * b + c;
+        }
     }
 }
