@@ -1,0 +1,13 @@
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.exe
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.deps.json
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.runtimeconfig.json
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.runtimeconfig.dev.json
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\bin\Debug\netcoreapp3.1\Week02Quiz01.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.csprojAssemblyReference.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.AssemblyInfoInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.AssemblyInfo.cs
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.csproj.CoreCompileInputs.cache
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.dll
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.pdb
+C:\Users\Poncho\Documents\Classes\CSC205\Assignments\Week02Quiz01\Week02Quiz01\obj\Debug\netcoreapp3.1\Week02Quiz01.genruntimeconfig.cache
