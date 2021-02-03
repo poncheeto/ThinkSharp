@@ -30,5 +30,13 @@ namespace ValueMethods
         {
             return a * b + c;
         }
+
+        public static double Yikes(double x)
+        {
+            double a = x;
+            double b = Math.Exp(-x);
+            double c = Math.Sqrt(1.0 - b);
+            Multadd(a, b, c);
+        }
     }
 }
