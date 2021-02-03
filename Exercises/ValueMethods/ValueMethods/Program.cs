@@ -14,6 +14,11 @@ namespace ValueMethods
             double b = 1.0 / 2.0;
             double c = Math.Sin(Math.PI / 4.0);
             Console.WriteLine(Multadd(a, b, c));
+
+            double a1 = 1.0;
+            double b1 = Math.Log(10);
+            double c1 = Math.Log(20);
+            Console.WriteLine(Multadd(a1, b1, c1));
         }
 
         public static bool IsDivisible(int n, int m)
