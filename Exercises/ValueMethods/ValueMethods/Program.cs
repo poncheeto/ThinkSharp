@@ -49,7 +49,8 @@ namespace ValueMethods
 
         public static void Main(String[] args)
         {
-            Console.WriteLine((Prod(1, 4)));
+            // Console.WriteLine((Prod(1, 4)));
+            Console.WriteLine(Ack(1,2));
         }
 
         public static int Prod(int m, int n)
@@ -61,6 +62,22 @@ namespace ValueMethods
             else
             {
                 return n * Prod(m, n - 1);             
+            }
+        }
+
+        public static int Ack(int m, int n)
+        {
+            if (m == 0)
+            {
+                return n + 1;
+            }
+            else if ( m > 0 && n == 0)
+            {
+                return Ack(m - 1, 1);
+            }
+            else
+            {
+                return Ack(m - 1, Ack(m, n - 1));
             }
         }
 
