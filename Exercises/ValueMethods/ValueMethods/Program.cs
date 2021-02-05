@@ -8,6 +8,7 @@ namespace ValueMethods
         {
             // Console.WriteLine(IsDivisible(4, 2));
             // Console.WriteLine(Multadd(1.0, 2.0, 3.0));
+            Yikes(12);
 
 
             double a = Math.Cos(Math.PI / 4.0);
@@ -36,7 +37,7 @@ namespace ValueMethods
             double a = x;
             double b = Math.Exp(-x);
             double c = Math.Sqrt(1.0 - b);
-            Multadd(a, b, c);
+            return Multadd(a, b, c);
         }
     }
 }
