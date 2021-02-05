@@ -60,9 +60,7 @@ namespace ValueMethods
             }
             else
             {
-                int recurse = Prod(m, n - 1);
-                int result = n * recurse;
-                return result;
+                return n * Prod(m, n - 1);             
             }
         }
 
