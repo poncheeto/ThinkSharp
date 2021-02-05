@@ -8,8 +8,7 @@ namespace ValueMethods
         {
             // Console.WriteLine(IsDivisible(4, 2));
             // Console.WriteLine(Multadd(1.0, 2.0, 3.0));
-            Yikes(12);
-
+            // Yikes(12);
 
             double a = Math.Cos(Math.PI / 4.0);
             double b = 1.0 / 2.0;
@@ -38,6 +37,11 @@ namespace ValueMethods
             double b = Math.Exp(-x);
             double c = Math.Sqrt(1.0 - b);
             return Multadd(a, b, c);
+        }
+
+        public static bool IsTriangle(int a, int b, int c)
+        {
+            return a + b >= c || a + c >= b || b + c >= a;
         }
     }
 }
