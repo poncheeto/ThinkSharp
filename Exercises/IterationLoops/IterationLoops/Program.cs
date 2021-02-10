@@ -6,7 +6,8 @@ namespace IterationLoops
     {
         static void Main(string[] args)
         {
-            Countdown(10);
+            // Countdown(10);
+            Loop(10);
         }
 
         // Iterative Countdown
@@ -20,5 +21,23 @@ namespace IterationLoops
             }
             Console.WriteLine("Blastoff!");
         }
+
+        public static void Loop(int n)
+        {
+            int i = n;
+            while (i > 0)
+            {
+                Console.WriteLine((i));
+                if (i % 2 == 0)
+                {
+                    i = i / 2;
+                }
+                else
+                {
+                    i = i + 1;
+                }
+            }
+        }
+
     }
 }
