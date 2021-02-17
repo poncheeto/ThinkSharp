@@ -35,6 +35,12 @@ namespace Objects
             this.Minute = minute;
             this.Second = second;
         }
+
+        public static void WriteTime(Time t)
+        {
+            Console.WriteLine(String.Format("{0:D2}:{1:D2}:{2:D2}", 
+                t.Hour + ":" + t.Minute + ":" + (int)t.Second));
+        }
     }
 
 }
