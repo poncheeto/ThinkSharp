@@ -9,4 +9,10 @@ namespace Objects
             Console.WriteLine("Hello World!");
         }
     }
+
+    public class Time
+    {
+        public int Hour, Minute;
+        public double Second;
+    }
 }
