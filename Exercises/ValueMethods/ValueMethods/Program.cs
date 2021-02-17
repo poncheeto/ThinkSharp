@@ -49,8 +49,8 @@ namespace ValueMethods
 
         public static void Main(String[] args)
         {
-            // Console.WriteLine((Prod(1, 4)));
-            Console.WriteLine(Ack(1,2));
+            Console.WriteLine((Prod(1, 4)));
+            // Console.WriteLine(Ack(1,2));
         }
 
         public static int Prod(int m, int n)
