@@ -14,6 +14,14 @@ namespace Objects
 
             Time t2 = new Time(11, 8, 3.14159);
             Console.WriteLine(t2);
+
+            WriteTime(t1);
+        }
+
+        public static void WriteTime(Time t)
+        {
+            Console.WriteLine(String.Format("{0:D2}:{1:D2}:{2:D2}",
+                t.Hour, t.Minute, (int)t.Second));
         }
     }
 
@@ -36,11 +44,5 @@ namespace Objects
             this.Second = second;
         }
 
-        public static void WriteTime(Time t)
-        {
-            Console.WriteLine(String.Format("{0:D2}:{1:D2}:{2:D2}", 
-                t.Hour + ":" + t.Minute + ":" + (int)t.Second));
-        }
     }
-
 }
