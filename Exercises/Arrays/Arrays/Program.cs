@@ -6,7 +6,12 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Random random = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                double x = random.NextDouble();
+                Console.WriteLine(x);
+            }
         }
     }
 }
